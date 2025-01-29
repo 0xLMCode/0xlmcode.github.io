@@ -19,13 +19,13 @@ body {
 }
 
 .header .logo {
-    width: 65px;
-    height: 65px;
+    width: 75px;
+    height: 75px;
     border-radius: 50%;
     border: 2px solid #fff;
     text-decoration: underline;
     text-align: center;
-    line-height: 55px;
+    line-height: 65px;
     font-family: "Raleway", sans-serif;
     transition: 0.3s;
 }
