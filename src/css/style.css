@@ -37,7 +37,7 @@ body {
 }
 
 .header .menu li a {
-    font-size: 15px;
+    font-size: 10px;
     text-transform: capitalize;
     padding: 10px 20px;
     transition: 0.3s;
